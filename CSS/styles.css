@@ -684,7 +684,7 @@ img {
 
 }
 .work-list-title {
-   
+    margin-bottom: 4px;
     color: var(--secondary-text-color);
     font-size: 18px;
     line-height: 2;

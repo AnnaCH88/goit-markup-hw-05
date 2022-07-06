@@ -684,7 +684,7 @@ img {
 
 }
 .work-list-title {
-    margin-bottom: 4px;
+    
     color: var(--secondary-text-color);
     font-size: 18px;
     line-height: 2;
@@ -694,7 +694,7 @@ img {
 }
 
 .work-list-item {
-   
+    margin-top: 4px;
     color: var(--main-text-color);
     font-size: 16px;
     line-height: 1.87;
